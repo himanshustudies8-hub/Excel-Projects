@@ -1,0 +1,26 @@
+Department,EmployeeID,Salary,,,,,
+HR,E101,45000,,,,,
+HR,E102,50000,,,,,
+IT,E103,70000,,,,,
+IT,E104,65000,,,,,
+Sales,E105,40000,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,Department,Count of EmployeeID,Max of Salary
+,,,,,HR,2,50000
+,,,,,IT,2,70000
+,,,,,Sales,1,40000
+,,,,,Grand Total,5,70000
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Department,Revenue,Cost,,,,,
+HR,100000,40000,,,,,
+IT,250000,120000,,,Department,Sum of Revenue,Sum of Cost
+Sales,180000,70000,,,HR,100000,40000
+,,,,,IT,250000,120000
+,,,,,Sales,180000,70000
+,,,,,Grand Total,530000,230000
